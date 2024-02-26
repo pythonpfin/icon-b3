@@ -15,7 +15,7 @@ Exemplo do icone da PETR4.png
 
 **ICONE EXEMPLO**
 
-![ICONE, PETR4](https://raw.githubusercontent.com/thefintz/icon-b3/main/icon/PETR4.png)
+![ICONE, PETR4](https://raw.githubusercontent.com/robertoricci/icon-b3/main/icon/PETR4.png)
 
 
 Para adicionar o icone para o Portifolio
